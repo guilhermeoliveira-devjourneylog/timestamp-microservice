@@ -21,27 +21,27 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`.
 * {"unix":1451001600000, "utc":"Fri, 25 Dec 2015 00:00:00 GMT"}
 
 
-# 1 Setting up the Project
+#### 1 Setting up the Project
 
-# 2 Setting up the Route
+#### 2 Setting up the Route
 
-# 3 Setting up the Route
+#### 3 Setting up the Route
 
-# 4 Capturing the Input
+#### 4 Capturing the Input
 
-# 5 Test 1 - It should handle a valid date, and return the correct unix timestamp
+#### 5 Test 1 - It should handle a valid date, and return the correct unix timestamp
 
-# 6 Test 2 - It should handle a valid date, and return the correct UTC string
+#### 6 Test 2 - It should handle a valid date, and return the correct UTC string
 
-# 7 Test 3 - It should handle a valid unix date, and return the correct unix timestamp
+#### 7 Test 3 - It should handle a valid unix date, and return the correct unix timestamp
 
-# 8 Test 4 - It should return the expected error message for an invalid date
+#### 8 Test 4 - It should return the expected error message for an invalid date
 
-# 9 Test 5 - It should handle an empty date parameter, and return the current time in unix format
+#### 9 Test 5 - It should handle an empty date parameter, and return the current time in unix format
 
-# 10 Test 6 - It should handle an empty date parameter, and return the current time in UTC format
+#### 10 Test 6 - It should handle an empty date parameter, and return the current time in UTC format
 
 
-# View Solution
+#### View Solution
 live-site https://timestamp-microservice-solution.glitch.me/
 code https://glitch.com/edit/#!/timestamp-microservice-solution
