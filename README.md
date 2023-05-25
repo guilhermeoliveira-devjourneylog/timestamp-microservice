@@ -40,3 +40,8 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`.
 # 9 Test 5 - It should handle an empty date parameter, and return the current time in unix format
 
 # 10 Test 6 - It should handle an empty date parameter, and return the current time in UTC format
+
+
+# View Solution
+live-site https://timestamp-microservice-solution.glitch.me/
+code https://glitch.com/edit/#!/timestamp-microservice-solution
